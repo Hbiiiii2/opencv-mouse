@@ -22,8 +22,8 @@ pip install opencv-python mediapipe numpy pyautogui
 ```bash
 python main.py
 ```
-3. 🏹 Gunakan jari telunjuk untuk menggerakkan kursor.
-4. 🖱️ Jari tengah yang terbuka akan melakukan klik kiri.
+3. 🏹 Gunakan jari telunjuk dan Jari tengah untuk menggerakkan kursor.
+4. 🖱️ Jari telunjuk yang terbuka akan melakukan hold klik kiri.
 5. ❌ Tekan tombol **'q'** untuk keluar dari program.
 
 ## 🔧 Konfigurasi Tambahan
